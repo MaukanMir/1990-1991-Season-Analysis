@@ -1,0 +1,1 @@
+# This repo is pulling data from my postgres db where I will look at the salaries and stats of players from the 1990-1991 season
